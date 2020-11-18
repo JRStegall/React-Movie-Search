@@ -18,7 +18,7 @@ function App() {
 
   function fetchMovies() {
     console.log(search);
-    fetch(`http://www.omdbapi.com/?s=${search}&apikey=34c3dc1c`)
+    fetch(`https://www.omdbapi.com/?s=${search}&apikey=34c3dc1c`)
       .then(res => res.json())
       .then((results) => {
         console.log(results);
