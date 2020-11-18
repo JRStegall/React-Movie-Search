@@ -1,3 +1,7 @@
+## About This Project
+
+This is simple movie search app created with React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
